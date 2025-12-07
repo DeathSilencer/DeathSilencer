@@ -11,11 +11,10 @@
 
 ---
 
-[![Insignias Holopin de @DeathSilencer](https://holopin.me/DeathSilencer)](https://holopin.io/@DeathSilencer)
 
 <div align=center>
   
-## `>_` Proyectos desarrollados por <a href="https://github.com/DeathSilencer"><img src="https://github.com/user-attachments/assets/663fb257-6315-453d-8c4e-65cc38e597fe" width="150" alt="DS Lab logo"></a>
+## `>_` Proyectos desarrollados por Davud<a href="https://github.com/DeathSilencer"></a>
 </div>
 
 > [!NOTE]
@@ -59,12 +58,6 @@
 </details>
 
 ---
-
-## 🤝 Contribuciones
-
-| Proyecto | Descripción y aportes | Enlace |
-| ------- | --------------------------- | ---- |
-| <img src="https://github.com/yogeshpaliyal/Deepr/blob/db1975bba41c293f7dcf09685af5d108d4d947c3/app/src/main/ic_launcher-playstore.png" width="50"><br> **Deepr** | Aplicación nativa para gestión y prueba de enlaces.<br><br>**Mi contribución:**<br>• Traducción al español y mejoras de interfaz. | [PR #112](https://github.com/yogeshpaliyal/Deepr/pull/112) |
 
 ---
 
