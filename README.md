@@ -12,7 +12,7 @@
 
 <div align=center>
   
-## `>_` Proyectos desarrollados por Davud<a href="https://github.com/DeathSilencer"></a>
+## `>_` Proyectos desarrollados por David<a href="https://github.com/DeathSilencer"></a>
 </div>
 
 > [!NOTE]
