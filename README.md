@@ -1,4 +1,4 @@
-# <p> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> David Platas | IT Engineer 👋</p> 
+# <p> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> David Platas | IT Engineer</p> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2500&pause=1000&color=E53935&random=false&width=900&height=150&lines=Desarrollador+de+Aplicaciones+M%C3%B3viles+y+Escritorio;Soluciones+Web+Full+Stack+y+Sistemas+POS;Futura+Especializaci%C3%B3n+en+Ciberseguridad+de+Sistemas;Transformando+ideas+en+c%C3%B3digo+seguro.)](https://git.io/typing-svg)
 
 - 💻 Desarrollador Full Stack & Software de Escritorio  
