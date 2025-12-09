@@ -1,5 +1,5 @@
-# <p> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ¡Hola, soy David Platas! 👋</p> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=43&duration=1000&pause=1500&color=E53935&random=false&width=900&height=150&lines=DeathSilencer+est%C3%A1+aqu%C3%AD!;Desarrollador+C%23+.NET+%26+Python+💻;Creador+de+H.Y.P.E.+y+FolderLocker;Seguridad+Windows+%26+Desarrollo+Web;Programando+por+rendimiento+y+seguridad.)](https://git.io/typing-svg)
+# <p> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> David Platas | IT Engineer 👋</p> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2500&pause=1000&color=E53935&random=false&width=900&height=150&lines=Desarrollador+de+Aplicaciones+M%C3%B3viles+y+Escritorio;Soluciones+Web+Full+Stack+y+Sistemas+POS;Futura+Especializaci%C3%B3n+en+Ciberseguridad+de+Sistemas;Transformando+ideas+en+c%C3%B3digo+seguro.)](https://git.io/typing-svg)
 
 - 💻 Desarrollador Full Stack & Software de Escritorio  
 - 🛡️ Entusiasta de la Seguridad y Privacidad  
@@ -7,6 +7,9 @@
 
 [![Código Abierto](https://badgen.net/badge/%C2%BFOpen%20Source%3F/S%C3%AD%21/e53935?icon=github)](https://github.com/DeathSilencer)
 ![Vistas del perfil](https://komarev.com/ghpvc/?username=DeathSilencer&color=e53935&label=Vistas+del+perfil)
+
+[![An image of @anonfaded's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anonfaded)](https://holopin.io/@anonfaded)
+
 
 ---
 
@@ -17,10 +20,9 @@
 
 > [!NOTE]
 > 📦 **Total de proyectos:** 5  
-> 💻 **Tipos:** 3 de Escritorio / 2 Móviles (Android)  
+> 🤖 **Android Apps:** 2  💻 **Desktop Apps:** 3  
 > 🛡️ **Enfoque:** Privacidad, Seguridad, Gestión Empresarial y Educación  
-> 🧪 **Stack actualizado:** C#, .NET, Java, Kotlin, Firebase, MySQL  
-
+> 🧪 **Tech Stack:** C#, .NET, Java, Kotlin, Python, PHP, TypeScript, JavaScript, SQL Server, MySQL, Firebase, HTML5/CSS3 (Bootstrap), Git, Kali Linux. 
 ---
 
 ## 🌟 Proyectos destacados y en producción
@@ -44,38 +46,6 @@
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------ |
 | 💻 Windows | 💻<br>**VaultMaster** | Sistema de cifrado de archivos con autenticación biométrica y claves dinámicas. | C# / AES-256 / .NET | En desarrollo |
 | 💻 Windows/Linux | 🐍<br>**PyEncryptor** | Herramienta CLI en Python para encriptación masiva de directorios con hashes SHA3. | Python | Próximamente |
-
----
-
-## 🧰 Herramientas y utilidades tempranas
-
-<details>
-<summary>Haz clic para desplegar</summary>
-
-| Plataforma | Aplicación                                                                                                                                                                | Descripción                                                                                                          | Tecnología   | Enlaces                                                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 💻 Windows/Linux | 💾<br>**LogWatcher** | Analizador de logs del sistema en tiempo real con búsqueda regex y exportación CSV. | Python | [GitHub](https://github.com/DeathSilencer/LogWatcher) |
-| 💻 Windows | 🪶<br>**MiniLocker** | Encriptador liviano con interfaz minimalista basado en FolderLocker Core. | C# | [GitHub](https://github.com/DeathSilencer/MiniLocker) |
-
-</details>
-
----
-
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeathSilencer&show_icons=true&locale=es&bg_color=0a0a0a&title_color=e53935&text_color=f3f4f6&icon_color=e53935&border_color=e53935&hide_border=false" alt="Estadísticas de DeathSilencer" />
-</p>
-<br>
-
-### Lenguajes principales
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathSilencer&layout=compact&locale=es&bg_color=0a0a0a&title_color=e53935&text_color=f3f4f6&icon_color=e53935&border_color=e53935&hide_border=false" alt="Top Lenguajes" />
-</p>
-<br>
 
 ---
 
