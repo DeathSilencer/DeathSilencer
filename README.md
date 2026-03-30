@@ -3,7 +3,7 @@
 
 - 💻 Desarrollador Full Stack & Software de Escritorio  
 - 🛡️ Entusiasta de la Seguridad y Privacidad  
-- 📦 Creador de **H.Y.P.E.** y **FolderLocker** - 🇲🇽 Basado en México  
+- 📦 Creador de **Argus Antirrobo**, **FolderLocker** y **H.Y.P.E.** - 🇲🇽 Basado en México  
 
 [![Código Abierto](https://badgen.net/badge/%C2%BFOpen%20Source%3F/S%C3%AD%21/e53935?icon=github)](https://github.com/DeathSilencer)
 ![Vistas del perfil](https://komarev.com/ghpvc/?username=DeathSilencer&color=e53935&label=Vistas+del+perfil)
@@ -19,8 +19,8 @@
 </div>
 
 > [!NOTE]
-> 📦 **Total de proyectos:** 5  
-> 🤖 **Android Apps:** 2  💻 **Desktop Apps:** 3  
+> 📦 **Total de proyectos:** 6  
+> 🤖 **Android Apps:** 3  💻 **Desktop Apps:** 3  
 > 🛡️ **Enfoque:** Privacidad, Seguridad, Gestión Empresarial y Educación  
 > 🧪 **Tech Stack:** C#, .NET, Java, Kotlin, Python, PHP, TypeScript, JavaScript, SQL Server, MySQL, Firebase, HTML5/CSS3 (Bootstrap), Git, Kali Linux. 
 ---
@@ -29,6 +29,7 @@
 
 | 🧩 Plataforma | 🖼️ Aplicación | 📝 Descripción | 🧠 Tecnología | 🔗 Enlaces |
 |--------------|---------------|----------------|---------------|-------------|
+| 📱 Android / Web | <img src="https://raw.githubusercontent.com/DeathSilencer/Argus-Security-Anti-Theft/main/assets/icon.png" width="50"><br>**Argus** | **Anti-Theft System v2.5**<br>Plataforma de defensa y antirrobo de dispositivos. Rastreo GPS, panel web, captura de evidencia y contramedidas autónomas. | Kotlin / Firebase | [🌐 Repositorio](https://github.com/DeathSilencer/Argus-Security-Anti-Theft) <br> ![Descargas](https://img.shields.io/github/downloads/DeathSilencer/Argus-Security-Anti-Theft/total?label=Descargas&color=e53935&logo=github) |
 | 💻 Windows | <img src="https://raw.githubusercontent.com/DeathSilencer/FolderLocker-Security-Suite/main/assets/icon.png" width="50"><br>**FolderLocker** | **Security Suite v5.1**<br>Suite de seguridad “Zero-Knowledge”. Virtualiza y encripta archivos al vuelo usando controladores Dokan. Arquitectura Stealth y base de datos encriptada. | C# / Dokan | [🌐 Repositorio](https://github.com/DeathSilencer/FolderLocker-Security-Suite) <br> ![Descargas](https://img.shields.io/github/downloads/DeathSilencer/FolderLocker-Security-Suite/total?label=Descargas&color=e53935&logo=github) |
 | 💻 Windows | <img src="https://raw.githubusercontent.com/DeathSilencer/Hide-Your-Program-Enhanced-H.Y.P.E-/main/assets/icon.png" width="50"><br>**H.Y.P.E.** | **Hide Your Program: Enhanced.**<br>Herramienta avanzada de “botón de pánico”. Oculta ventanas y silencia el audio instantáneamente con atajos globales y sistema de señuelo. | C# / .NET | [🌐 Repositorio](https://github.com/DeathSilencer/Hide-Your-Program-Enhanced-H.Y.P.E-) <br> ![Descargas](https://img.shields.io/github/downloads/DeathSilencer/Hide-Your-Program-Enhanced-H.Y.P.E-/total?label=Descargas&color=e53935&logo=github) |
 | 💻 Win/Linux | <img src="https://raw.githubusercontent.com/DeathSilencer/Ramify-System-Java/main/assets/icon.png" width="50"><br>**Ramify** | **Sales System POS**<br>Sistema de Punto de Venta y Gestión de Inventarios robusto. Control total de ventas, clientes, reportes PDF y facturación. | Java / MySQL | [🌐 Repositorio](https://github.com/DeathSilencer/Ramify-System-Java) <br> ![Descargas](https://img.shields.io/github/downloads/DeathSilencer/Ramify-System-Java/total?label=Descargas&color=e53935&logo=github) |
@@ -42,7 +43,7 @@
 
 > *Estos proyectos se encuentran actualmente en desarrollo.*
 
-| Plataforma         | Aplicación                                                                                                                                                                                                                                  | Descripción                                                                                                                                      | Tecnología              | Estado             |
+| Plataforma         | Aplicación                                                                                                                                                                                                                                                                                                    | Descripción                                                                                                                        | Tecnología              | Estado             |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------ |
 | 💻 Windows | 💻<br>**VaultMaster** | Sistema de cifrado de archivos con autenticación biométrica y claves dinámicas. | C# / AES-256 / .NET | En desarrollo |
 | 💻 Windows/Linux | 🐍<br>**PyEncryptor** | Herramienta CLI en Python para encriptación masiva de directorios con hashes SHA3. | Python | Próximamente |
