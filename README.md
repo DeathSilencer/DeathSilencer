@@ -124,6 +124,8 @@
     <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?logo=visual-studio-code&logoColor=white"/></a>
   <a href="https://developer.android.com/studio" target="_blank"> 
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?logo=android-studio&logoColor=white"/></a>
+  <a href="https://antigravity.google/" target="_blank"> 
+    <img alt="Google Antigravity" src="https://img.shields.io/badge/Google%20Antigravity-%234285F4.svg?logo=google&logoColor=white"/></a>
   <a href="https://www.eclipse.org/ide/" target="_blank"> 
     <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?logo=eclipse&logoColor=white"/></a>
   <a href="https://www.sublimetext.com/" target="_blank"> 
